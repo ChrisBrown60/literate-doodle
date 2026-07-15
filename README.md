@@ -10,7 +10,7 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/ChrisBrown60/literate-doodle/issues/1)
 
-If you're continuing the exercise, start with **Issue #1** and follow each step in order.
+If you're starting or continuing the exercise, begin at **Issue ChrisBrown60/literate-doodle#1** and follow each step in order.
 
 ---
 
